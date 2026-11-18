@@ -3,7 +3,6 @@
 A route planner for South Asian University, New Delhi. It finds routes across campus (single or
 multi-stop) and handles closed paths, wheelchair access and uncertain walking times.
 
-![app](screenshot_app.png)
 
 ## Run it
 ```
